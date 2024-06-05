@@ -196,6 +196,7 @@ int32_t main() {
     while (t--) 
 {
         string s;
+        cin>>s;
 }
     return 0;
 }

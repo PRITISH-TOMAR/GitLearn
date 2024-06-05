@@ -197,6 +197,8 @@ int32_t main() {
 {
         int n;
         cin>>n;
+
+        cout<<"A;";
 }
     return 0;
 }
